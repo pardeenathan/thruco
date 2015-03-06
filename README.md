@@ -1,3 +1,0 @@
-# thruco
-thruco repo
-Yup
